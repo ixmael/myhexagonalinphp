@@ -1,0 +1,14 @@
+{
+    "name": "carloslopez/hexagonal",
+    "version": "0.0.1",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "CarlosLopez\\Hexagonal\\Core\\Domain": "Core/Domain/"
+    },
+    "require": {
+        "php": ">=7",
+        "slim/slim": "4.*"
+    }
+}
